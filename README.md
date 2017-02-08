@@ -1,4 +1,4 @@
-# LYLIMGBrowse
+# LYLIMGBrowse 给点个Star支持一下吧！3Q！
 图片浏览器：本地及网络图片浏览，可以手势缩放，双击放大单击退出等功能！
 
 
