@@ -2,7 +2,7 @@
 图片浏览器：本地及网络图片浏览(及加载进度)，可以手势缩放，双击放大单击退出等功能！
 
 
-使用简单：
+使用简单(详情见demo)：
 
 
 LYLIMGBrowseVC *imageBrowseVC = [[LYLIMGBrowseVC alloc] init];
